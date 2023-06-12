@@ -31,6 +31,6 @@ You can add more functions if needed.
 5. After each iteration, use the `display` function to show the updated state of the game on the console.
 6. Repeat steps 4 and 5 for the desired number of runs.
 
-Remember, this implementation does not require graphics. The game will be displayed and played on the console.
+
 
 
